@@ -1,0 +1,9 @@
+Package: com.ioscreatix.weathervane
+Name: WeatherVane
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Access Wifi Networks from the Control on iOS 11
+Maintainer: iOS Creatix
+Author: iOS Creatix
+Section: Tweaks
