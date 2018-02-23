@@ -2,7 +2,7 @@ include $(THEOS)/makefiles/common.mk
 
 ARCHS = arm64
 TWEAK_NAME = WeatherVane
-WeatherVane_FILES = Tweak.xm
+WeatherVane_FILES = WiFi.xm Bluetooth.xm
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 

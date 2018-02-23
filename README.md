@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/ioscreatix/WeatherVane.svg?branch=master)](https://travis-ci.org/ioscreatix/WeatherVane)
 ## WeatherVane
-WeatherVane allows users to access a list of Wi-Fi networks and connect to them through the long pressing on the wifi toggle on the iOS 11 Control Center
+WeatherVane allows users to access a list of Wi-Fi networks and connect to them through the long pressing on the wifi toggle on the iOS 11 Control Center.
+It also allows users to longpress on the bluetooth toggle to access a list of bluetooth devices to connect,pair, and disconnect from.
 
 
 #### Patreon
